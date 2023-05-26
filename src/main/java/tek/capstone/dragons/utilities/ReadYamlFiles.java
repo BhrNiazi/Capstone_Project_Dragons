@@ -18,8 +18,9 @@ public class ReadYamlFiles {
 
 	// we are resturing an instance of Readyamlfile
 	public static ReadYamlFiles getInstance(String filePath) throws FileNotFoundException {
-		if (readYamlFiles == null)
+		if (readYamlFiles == null) {
 			return new ReadYamlFiles(filePath);
+		}
 		return readYamlFiles;
 
 	}
