@@ -92,7 +92,7 @@ public class SignInSteps extends CommonUtility {
 		waitTillPresence(factory.retailsigninpage().accountBttn);
 		Assert.assertTrue(isElementDisplayed(factory.retailsigninpage().logoutOption));
 		Assert.assertTrue(isElementDisplayed(factory.retailsigninpage().accountBttn));
-		logger.info("user was able to see the Account and lohout option");
+		logger.info("user was able to see the Account and logout option");
 
 	}
 }
