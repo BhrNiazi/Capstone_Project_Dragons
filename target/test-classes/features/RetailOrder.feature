@@ -9,8 +9,6 @@ Feature: Retail Order Page
     And User enter email 'bn200@gmail.com' and password 'Bahar@123'
     And User click on login button
     And User should be logged in into Account
-    And User click on Orders section
-    And User click on first order in list
     And User change the category to 'Smart Home'
     And User search for an item 'kasa outdoor smart plug'
     And User click on Search icon

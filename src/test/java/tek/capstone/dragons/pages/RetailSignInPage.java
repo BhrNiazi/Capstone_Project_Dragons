@@ -50,9 +50,9 @@ public class RetailSignInPage extends BaseSetup {
 	@FindBy(id = "signupBtn")
 	public WebElement signUPBttn;
 	
-	@FindBy(xpath = "//button[@id='logoutBtn']")
+	@FindBy(xpath = "//div//button[@id='logoutBtn']")
 	public WebElement logoutOption;
 	
-	@FindBy(xpath = "//a[@id='accountLink']")
+	@FindBy(xpath = "//div//a[@id='accountLink']")
 	public WebElement accountBttn;
 }

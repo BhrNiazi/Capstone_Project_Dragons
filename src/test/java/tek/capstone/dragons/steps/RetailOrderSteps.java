@@ -181,6 +181,7 @@ public class RetailOrderSteps extends CommonUtility {
 
 	@Then("a cancelation message should be displayed ‘Your Order Has Been Cancelled’")
 	public void aCancelationMessageShouldBeDisplayedYourOrderHasBeenCancelled() {
+		waitTillPresence(factory.retailorderpage().orderCancleMessage);
 		Assert.assertTrue(factory.retailorderpage().orderCancleMessage.isDisplayed());
 		logger.info("User was able to see the message");
 	}
