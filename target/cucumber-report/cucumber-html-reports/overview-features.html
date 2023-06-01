@@ -50,8 +50,8 @@ $(document).ready(function() {
     var chartData = {
         datasets: [{
             data: [
-                159,
-                0,
+                164,
+                1,
                 0,
                 0,
                 0
@@ -93,7 +93,7 @@ $(document).ready(function() {
                         var allData = data.datasets[tooltipItem.datasetIndex].data;
                         var tooltipLabel = data.labels[tooltipItem.index];
                         var tooltipData = allData[tooltipItem.index];
-                        var tooltipPercentage = Math.round(10000 * tooltipData / 159) / 100;
+                        var tooltipPercentage = Math.round(10000 * tooltipData / 165) / 100;
                         return tooltipLabel + ": " + tooltipData + " (" + tooltipPercentage + "%)";
                     }
                 }
@@ -106,8 +106,8 @@ $(document).ready(function() {
     var chartData = {
         datasets: [{
             data: [
-                20,
-                0
+                19,
+                1
             ],
             backgroundColor: [
                 "#00B000",
@@ -153,8 +153,8 @@ $(document).ready(function() {
     var chartData = {
         datasets: [{
             data: [
-                   4,
-                   0
+                   3,
+                   1
                ],
                backgroundColor: [
                 "#00B000",
@@ -230,7 +230,7 @@ $(document).ready(function() {
     <tr class="info">
       <td>cucumber-jvm-example</td>
         <td>1</td>
-      <td>24 May 2023, 02:06</td>
+      <td>01 Jun 2023, 13:16</td>
     </tr>
   </tbody>
 </table>
@@ -338,41 +338,41 @@ $(document).ready(function() {
         <td >0</td>
         <td class="total">6</td>
 
-        <td class="duration" data-value="2799135000">2.799</td>
+        <td class="duration" data-value="4946459000">4.946</td>
         <td class="passed">Passed</td>
       </tr>
       <tr>
         <td class="tagname"><a href="report-feature_1_3514281404.html">Retail Account Page</a></td>
 
-        <td      class="passed"    >66</td>
-        <td >0</td>
+        <td      class="passed"    >65</td>
+        <td      class="failed"    >1</td>
         <td >0</td>
         <td >0</td>
         <td >0</td>
         <td class="total">66</td>
 
-        <td  class="passed"    >7</td>
-        <td >0</td>
+        <td  class="passed"    >6</td>
+        <td  class="failed"    >1</td>
         <td class="total">7</td>
 
-        <td class="duration" data-value="28906720000">28.906</td>
-        <td class="passed">Passed</td>
+        <td class="duration" data-value="106174541000">1:46.174</td>
+        <td class="failed">Failed</td>
       </tr>
       <tr>
         <td class="tagname"><a href="report-feature_2_697482205.html">Retail Order Page</a></td>
 
-        <td      class="passed"    >64</td>
+        <td      class="passed"    >70</td>
         <td >0</td>
         <td >0</td>
         <td >0</td>
         <td >0</td>
-        <td class="total">64</td>
+        <td class="total">70</td>
 
         <td  class="passed"    >5</td>
         <td >0</td>
         <td class="total">5</td>
 
-        <td class="duration" data-value="18933979000">18.933</td>
+        <td class="duration" data-value="81656776000">1:21.656</td>
         <td class="passed">Passed</td>
       </tr>
       <tr>
@@ -389,7 +389,7 @@ $(document).ready(function() {
         <td >0</td>
         <td class="total">2</td>
 
-        <td class="duration" data-value="3207164000">3.207</td>
+        <td class="duration" data-value="17320075000">17.320</td>
         <td class="passed">Passed</td>
       </tr>
   </tbody>
@@ -397,33 +397,33 @@ $(document).ready(function() {
   <tfoot class="total">
     <tr>
       <td></td>
-      <td>159</td>
+      <td>164</td>
+      <td>1</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
-      <td>0</td>
-      <td>159</td>
+      <td>165</td>
 
-      <td>20</td>
-      <td>0</td>
+      <td>19</td>
+      <td>1</td>
       <td>20</td>
 
-      <td class="duration">53.846</td>
+      <td class="duration">3:30.097</td>
       <td>4</td>
     </tr>
     <tr>
       <td></td>
-      <td>100.00%</td>
-      <td>0.00%</td>
+      <td>99.39%</td>
+      <td>0.61%</td>
       <td>0.00%</td>
       <td>0.00%</td>
       <td>0.00%</td>
       <td></td>
-      <td>100.00%</td>
-      <td>0.00%</td>
+      <td>95.00%</td>
+      <td>5.00%</td>
       <td></td>
       <td></td>
-      <td>100.00%</td>
+      <td>75.00%</td>
     </tr>
   </tfoot>
 </table>

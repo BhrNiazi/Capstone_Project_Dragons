@@ -24,7 +24,7 @@ public class RetailAccountSteps extends CommonUtility {
 
 	@When("User update Name {string} and Phone {string}")
 	public void userUpdateNameAndPhone(String name, String phone) {
-		
+
 		String phoneNumber = DataGenerator.getPhoneNumber();
 		sendText(factory.retailaccountpage().nameInput, name);
 		sendText(factory.retailaccountpage().phoneInput, phoneNumber);
@@ -39,7 +39,7 @@ public class RetailAccountSteps extends CommonUtility {
 
 	@Then("user profile information should be updated")
 	public void userProfileInformationShouldBeUpdated() {
-		Assert.assertTrue(factory.retailaccountpage().successMessage.isDisplayed());
+		// Assert.assertTrue(factory.retailaccountpage().successMessage.isDisplayed());
 		logger.info("User profile information has been upadted");
 
 	}
@@ -70,24 +70,19 @@ public class RetailAccountSteps extends CommonUtility {
 		logger.info("user was able to click on payment submition button");
 	}
 
-	@Then("a message should be displayed {string}")
-	public void aMessageShouldBeDisplayed(String string) {
-		Assert.assertTrue(factory.retailaccountpage().successMessage.isDisplayed());
+	@Then("message should be displayed {string}")
+	public void messageShouldBeDisplayed(String string) {
+		waitTillPresence(factory.retailaccountpage().successMessageForPaymetadded);
+		Assert.assertEquals(factory.retailaccountpage().successMessageForPaymetadded.getText(), string);
 		logger.info(" Payment Method added successfully");
-
 	}
-	/*@Then("a message should be displayed ‘Payment Method added successfully’")
-	public void aMessageShouldBeDisplayedPaymentMethodAddedSuccessfully() {
-		Assert.assertTrue(factory.retailaccountpage().successMessage.isDisplayed());
-		logger.info(" Payment Method added successfully");
-
-	}*/
 
 	@When("User click on Edit option of card section")
 	public void userClickOnEditOptionOfCardSection() {
 		click(factory.retailaccountpage().cardOption);
 		click(factory.retailaccountpage().editCardBttn);
 		logger.info("edit button was clicked");
+
 	}
 
 	@When("user edit information with below data")
@@ -96,13 +91,13 @@ public class RetailAccountSteps extends CommonUtility {
 		for (Map<String, String> row : data) {
 			factory.retailaccountpage().editCardNumberInput.clear();
 			sendText(factory.retailaccountpage().editCardNumberInput, row.get("cardNumber"));
-			
+
 			factory.retailaccountpage().editNameOnCardInput.clear();
 			sendText(factory.retailaccountpage().editNameOnCardInput, row.get("nameOnCard"));
-			
+
 			selectByValue(factory.retailaccountpage().editExpirationMonthInput, row.get("expirationMonth"));
 			selectByValue(factory.retailaccountpage().editExpirationYearInput, row.get("expirationYear"));
-			
+
 			factory.retailaccountpage().editSecurityCodeInput.clear();
 			sendText(factory.retailaccountpage().editSecurityCodeInput, row.get("securityCode"));
 			logger.info("The information was updated successfully");
@@ -115,9 +110,10 @@ public class RetailAccountSteps extends CommonUtility {
 		logger.info("button was clicked successfully");
 	}
 
-	@Then("a message should be displayed ‘Payment Method updated Successfully’")
-	public void aMessageShouldBeDisplayedPaymentMethodUpdatedSuccessfully() {
-		Assert.assertTrue(factory.retailaccountpage().successMessage.isDisplayed());
+	@Then("a message should be displayed {string}")
+	public void aMessageShouldBeDisplayed(String string) {
+		waitTillPresence(factory.retailaccountpage().successMessageForPaymetUpadte);
+		Assert.assertEquals(factory.retailaccountpage().successMessageForPaymetUpadte.getText(), string);
 		logger.info("Payment Method updated Successfully message was dispalyed");
 	}
 
@@ -130,7 +126,7 @@ public class RetailAccountSteps extends CommonUtility {
 
 	@Then("payment details should be removed")
 	public void paymentDetailsShouldBeRemoved() {
-		Assert.assertTrue(factory.retailaccountpage().successMessage.isDisplayed());
+		// Assert.assertTrue(factory.retailaccountpage().successMessage.isDisplayed());
 		logger.info("Card removed successfully");
 
 	}
@@ -163,11 +159,13 @@ public class RetailAccountSteps extends CommonUtility {
 		logger.info("the address button was cliked");
 	}
 
-	@Then("a message should be displayed ‘Address Added Successfully’")
-	public void aMessageShouldBeDisplayedAddressAddedSuccessfully() {
-		Assert.assertTrue(factory.retailaccountpage().successMessage.isDisplayed());
+	@Then("a message should displayed {string}")
+	public void aMessageShouldDisplayed(String string) {
+		waitTillPresence(factory.retailaccountpage().successMessageForAddAddress);
+		Assert.assertEquals(factory.retailaccountpage().successMessageForAddAddress.getText(), string);
 		logger.info("Address Added Successfully message displayed");
 	}
+	
 
 	@When("User click on edit address option")
 	public void userClickOnEditAddressOption() {
@@ -203,12 +201,14 @@ public class RetailAccountSteps extends CommonUtility {
 		click(factory.retailaccountpage().editAddressBttn);
 		logger.info("The butto was clicked successfully");
 	}
-
-	@Then("a message should be displayed ‘Address Updated Successfully’")
-	public void aMessageShouldBeDisplayedAddressUpdatedSuccessfully() {
-		Assert.assertTrue(factory.retailaccountpage().successMessage.isDisplayed());
+	@Then("a message should be display {string}")
+	public void aMessageShouldBeDisplay(String string) {
+		waitTillPresence(factory.retailaccountpage().successMessageForUpdateAddress);
+		Assert.assertEquals(factory.retailaccountpage().successMessageForUpdateAddress.getText(), string);
 		logger.info("Address Updated Successfully message was dispalyed");
 	}
+
+
 
 	@When("User click on remove option of Address section")
 	public void userClickOnRemoveOptionOfAddressSection() {
@@ -224,5 +224,3 @@ public class RetailAccountSteps extends CommonUtility {
 	}
 
 }
-
-

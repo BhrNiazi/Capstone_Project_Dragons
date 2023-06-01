@@ -61,11 +61,11 @@ public class RetailOrderSteps extends CommonUtility {
 	}
 
 	@Then("user delete the item")
-	public void userDeleteTheItem() {
-		click(factory.retailorderpage().cartOption);
+	public void userDeleteTheItem() throws InterruptedException {
+		click(factory.retailorderpage().cartOption2);
 		click(factory.retailorderpage().deleteOPtion);
 		logger.info("user delete the item");
-
+		Thread.sleep(1000);
 	}
 
 	// String expectedQuantity = quantity;
@@ -200,6 +200,7 @@ public class RetailOrderSteps extends CommonUtility {
 
 	@When("User click on Return Items button")
 	public void userClickOnReturnItemsButton() {
+		
 		click(factory.retailorderpage().retrunItemBttn);
 		logger.info("User was able to click on Return Items button successfully");
 	}
