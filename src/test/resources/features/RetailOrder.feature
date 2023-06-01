@@ -16,7 +16,7 @@ Feature: Retail Order Page
     And User select quantity '2'
     And User click add to Cart button
     Then the cart icon quantity should change to '2'
-
+    Then user delete the item
   
   Scenario: Verify User can place an order with Shipping address and payment Method on file​​​​​​​
     And User enter email 'bn300@gmail.com' and password 'Bahar@123'
@@ -33,6 +33,7 @@ Feature: Retail Order Page
     And User click on Proceed to Checkout button
     And User click on Place Your Order
     Then a message should be displayed ‘Order Placed, Thanks
+    
 
   #Note: For the below scenarios, you need to first have orders in place. At least one order must be present
   Scenario: Verify User can cancel the order
@@ -50,6 +51,14 @@ Feature: Retail Order Page
     And User enter email 'niazi@gmail.com' and password 'Bahar@123'
     And User click on the login button
     And User should be logged in into Account
+    And User change the category to 'Smart Home'
+    And User search for an item 'kasa outdoor smart plug'
+    And User click on Search icon
+    And User click on item
+    And User click add to Cart button
+    And User click on Cart option
+    And User click on Proceed to Checkout button
+    And User click on Place Your Order
     And User click on Orders section
     And User click on first order in list
     And User click on Return Items button

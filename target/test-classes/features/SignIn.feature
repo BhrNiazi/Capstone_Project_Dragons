@@ -1,4 +1,4 @@
-@Test
+@Regression
 Feature: Sign in/Sign Up Features
 
   Background: 

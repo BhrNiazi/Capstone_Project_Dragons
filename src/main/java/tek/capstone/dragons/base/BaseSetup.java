@@ -1,5 +1,6 @@
 package tek.capstone.dragons.base;
 
+import java.time.Duration;
 import java.util.HashMap;
 import org.openqa.selenium.WebDriver;
 import tek.capstone.dragons.config.Browser;
@@ -20,10 +21,10 @@ public class BaseSetup {
 		// we nedd to get the path to env_Config file and log4j files and store them as
 		// String
 
-		String filePath = System.getProperty("user.dir")+"/src/main/resources/env_config.yml";
-		String log4jPath = System.getProperty("user.dir")+"/src/main/resources/log4j.properties";
-        try {
-        	enviromentVariables = ReadYamlFiles.getInstance(filePath);
+		String filePath = System.getProperty("user.dir") + "/src/main/resources/env_config.yml";
+		String log4jPath = System.getProperty("user.dir") + "/src/main/resources/log4j.properties";
+		try {
+			enviromentVariables = ReadYamlFiles.getInstance(filePath);
 		} catch (Exception e) {
 			System.out.println("failed to load env-config property. Check your filePath");
 			throw new RuntimeException("failed to load  env-config file: " + e.getMessage());
@@ -49,14 +50,14 @@ public class BaseSetup {
 			} else {
 				browser = new ChromeBrowser();
 			}
-            webDriver = browser.openBrowser(url);
-            break;
+			webDriver = browser.openBrowser(url);
+			break;
 
 		case "firefox":
 			browser = new FireFoxBrowser();
 			webDriver = browser.openBrowser(url);
 			break;
-			
+
 		case "edge":
 			browser = new EdgeBrowser();
 			webDriver = browser.openBrowser(url);
@@ -65,13 +66,17 @@ public class BaseSetup {
 			throw new RuntimeException("Browser name in config does not match any of the cases");
 
 		}
+		
+		webDriver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
+		webDriver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(20));
+		webDriver.manage().window().maximize();
+
 	}
 
 	public void quiteBrowser() {
+
 		if (webDriver != null)
 			webDriver.quit();
 	}
 
 }
-
-

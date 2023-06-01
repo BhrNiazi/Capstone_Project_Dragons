@@ -120,5 +120,7 @@ public class RetailOrderPage extends BaseSetup {
    @FindBy(xpath = "//button[@id ='loginBtn']")
 	public WebElement loginBttn;
 
+   @FindBy(xpath ="//p//span[@class='cart__item-delete']")
+   public WebElement deleteOPtion;
 
 }

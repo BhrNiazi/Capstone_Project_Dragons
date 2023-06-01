@@ -49,6 +49,8 @@ public class CommonUtility extends BaseSetup {
 	}
 
 	public void sendText(WebElement element, String value) {
+		JavascriptExecutor js = (JavascriptExecutor) getDriver();
+		js.executeScript("arguments[0].value=''", element);
 		this.waitTillPresence(element).sendKeys(value);
 
 	}
@@ -62,6 +64,7 @@ public class CommonUtility extends BaseSetup {
 	}
 
 	public void sendText(By by, String value) {
+
 		this.waitTillPresence(by).sendKeys(value);
 	}
 
@@ -100,7 +103,7 @@ public class CommonUtility extends BaseSetup {
 		select.selectByVisibleText(visibleText);
 
 	}
-	
+
 	public void deselectByIndex(WebElement ele, int index) {
 		Select deselect = new Select(ele);
 		deselect.deselectByIndex(index);
@@ -223,9 +226,9 @@ public class CommonUtility extends BaseSetup {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		
+		
 
 	}
 
 }
-
-

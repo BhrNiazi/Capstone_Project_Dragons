@@ -5486,3 +5486,980 @@
 2023-05-31 16:23:52,647 [main] INFO logger_file - Registration info entered
 2023-05-31 16:23:53,439 [main] INFO logger_file - Sign up button was clicked
 2023-05-31 16:23:56,100 [main] INFO logger_file - user was able to see the Account and logout option
+2023-05-31 17:36:10,704 [main] INFO logger_file - User is on retail website
+2023-05-31 17:36:11,627 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 17:36:15,421 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 17:36:15,421 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 17:36:16,486 [main] INFO logger_file - user was able to login successfully
+2023-05-31 17:36:18,354 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 17:36:20,416 [main] INFO logger_file - User was able to click on account option
+2023-05-31 17:36:22,154 [main] INFO logger_file - Bahara5714627777 user was able to enter the values
+2023-05-31 17:36:22,653 [main] INFO logger_file - User was able to click on update button successfully
+2023-05-31 17:36:22,705 [main] INFO logger_file - User profile information has been upadted
+2023-05-31 17:36:27,208 [main] INFO logger_file - User is on retail website
+2023-05-31 17:36:27,970 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 17:36:31,459 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 17:36:31,460 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 17:36:32,616 [main] INFO logger_file - user was able to login successfully
+2023-05-31 17:36:34,503 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 17:36:36,703 [main] INFO logger_file - User was able to click on account option
+2023-05-31 17:36:37,193 [main] INFO logger_file - User was able to click on account option
+2023-05-31 17:36:37,428 [main] INFO logger_file - User was able to click on add a payment link successfully
+2023-05-31 17:36:41,060 [main] INFO logger_file - Card information has entered successfully
+2023-05-31 17:36:46,717 [main] INFO logger_file - user was able to click on payment submition button
+2023-05-31 17:36:46,784 [main] INFO logger_file -  Payment Method added successfully
+2023-05-31 17:36:49,949 [main] INFO logger_file - User is on retail website
+2023-05-31 17:36:50,599 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 17:36:53,467 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 17:36:53,468 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 17:36:54,677 [main] INFO logger_file - user was able to login successfully
+2023-05-31 17:36:56,681 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 17:36:58,806 [main] INFO logger_file - User was able to click on account option
+2023-05-31 17:37:00,303 [main] INFO logger_file - edit button was clicked
+2023-05-31 17:37:03,952 [main] INFO logger_file - The information was updated successfully
+2023-05-31 17:37:04,254 [main] INFO logger_file - button was clicked successfully
+2023-05-31 17:37:04,292 [main] INFO logger_file -  Payment Method added successfully
+2023-05-31 17:37:07,448 [main] INFO logger_file - User is on retail website
+2023-05-31 17:37:08,114 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 17:37:11,605 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 17:37:11,606 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 17:37:12,631 [main] INFO logger_file - user was able to login successfully
+2023-05-31 17:37:14,166 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 17:37:16,158 [main] INFO logger_file - User was able to click on account option
+2023-05-31 17:37:17,393 [main] INFO logger_file - User was able to click on remove button successfully
+2023-05-31 17:37:17,531 [main] INFO logger_file - Card removed successfully
+2023-05-31 17:37:21,752 [main] INFO logger_file - User is on retail website
+2023-05-31 17:37:22,406 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 17:37:25,289 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 17:37:25,289 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 17:37:26,861 [main] INFO logger_file - user was able to login successfully
+2023-05-31 17:37:28,498 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 17:37:30,706 [main] INFO logger_file - User was able to click on account option
+2023-05-31 17:37:31,682 [main] INFO logger_file - add method option clicked successfully
+2023-05-31 17:37:35,851 [main] INFO logger_file - User was able to add address successfully
+2023-05-31 17:37:36,445 [main] INFO logger_file - the address button was cliked
+2023-05-31 17:37:36,502 [main] INFO logger_file -  Payment Method added successfully
+2023-05-31 17:37:40,249 [main] INFO logger_file - User is on retail website
+2023-05-31 17:37:40,845 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 17:37:42,403 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 17:37:42,404 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 17:37:45,037 [main] INFO logger_file - user was able to login successfully
+2023-05-31 17:37:47,055 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 17:37:49,157 [main] INFO logger_file - User was able to click on account option
+2023-05-31 17:37:50,086 [main] INFO logger_file - edit address button was clicked successfully
+2023-05-31 17:37:59,945 [main] INFO logger_file - The information has been apdated
+2023-05-31 17:38:00,282 [main] INFO logger_file - The butto was clicked successfully
+2023-05-31 17:38:00,333 [main] INFO logger_file -  Payment Method added successfully
+2023-05-31 17:38:03,814 [main] INFO logger_file - User is on retail website
+2023-05-31 17:38:04,510 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 17:38:07,441 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 17:38:07,442 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 17:38:08,703 [main] INFO logger_file - user was able to login successfully
+2023-05-31 17:38:10,371 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 17:38:12,473 [main] INFO logger_file - User was able to click on account option
+2023-05-31 17:38:13,160 [main] INFO logger_file - Remove Address button clicked
+2023-05-31 17:38:13,390 [main] INFO logger_file - Address removed
+2023-05-31 18:02:10,818 [main] INFO logger_file - User is on retail website
+2023-05-31 18:02:11,619 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:02:15,210 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:02:15,211 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:02:16,730 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:02:18,508 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:02:21,549 [main] INFO logger_file - User is on retail website
+2023-05-31 18:02:22,233 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:02:22,486 [main] INFO logger_file - New account button was clicked
+2023-05-31 18:02:27,532 [main] INFO logger_file - Registration info entered
+2023-05-31 18:02:28,330 [main] INFO logger_file - Sign up button was clicked
+2023-05-31 18:02:31,460 [main] INFO logger_file - user was able to see the Account and logout option
+2023-05-31 18:03:20,006 [main] INFO logger_file - User is on retail website
+2023-05-31 18:03:20,900 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:03:24,656 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:03:24,656 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:03:26,033 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:03:27,795 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:03:36,570 [main] INFO logger_file - User is on retail website
+2023-05-31 18:03:37,453 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:03:37,913 [main] INFO logger_file - New account button was clicked
+2023-05-31 18:03:43,520 [main] INFO logger_file - Registration info entered
+2023-05-31 18:03:44,744 [main] INFO logger_file - Sign up button was clicked
+2023-05-31 18:03:47,491 [main] INFO logger_file - user was able to see the Account and logout option
+2023-05-31 18:06:25,934 [main] INFO logger_file - User is on retail website
+2023-05-31 18:06:26,900 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:06:30,405 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:06:30,406 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:06:31,399 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:06:33,645 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:06:48,296 [main] INFO logger_file - User is on retail website
+2023-05-31 18:06:49,332 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:06:49,589 [main] INFO logger_file - New account button was clicked
+2023-05-31 18:06:54,476 [main] INFO logger_file - Registration info entered
+2023-05-31 18:06:56,087 [main] INFO logger_file - Sign up button was clicked
+2023-05-31 18:06:58,907 [main] INFO logger_file - user was able to see the Account and logout option
+2023-05-31 18:13:19,863 [main] INFO logger_file - User is on retail website
+2023-05-31 18:13:20,774 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:13:24,192 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:13:24,192 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:13:25,346 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:13:27,249 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:13:28,704 [main] INFO logger_file - User was able to click on account option
+2023-05-31 18:13:31,084 [main] INFO logger_file - Bahara5714627777 user was able to enter the values
+2023-05-31 18:13:31,831 [main] INFO logger_file - User was able to click on update button successfully
+2023-05-31 18:13:33,012 [main] INFO logger_file - User profile information has been upadted
+2023-05-31 18:13:41,746 [main] INFO logger_file - User is on retail website
+2023-05-31 18:13:42,755 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:13:46,159 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:13:46,160 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:13:47,096 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:13:49,127 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:13:50,822 [main] INFO logger_file - User was able to click on account option
+2023-05-31 18:13:51,758 [main] INFO logger_file - User was able to click on account option
+2023-05-31 18:13:52,024 [main] INFO logger_file - User was able to click on add a payment link successfully
+2023-05-31 18:13:55,532 [main] INFO logger_file - Card information has entered successfully
+2023-05-31 18:14:01,120 [main] INFO logger_file - user was able to click on payment submition button
+2023-05-31 18:14:01,282 [main] INFO logger_file -  Payment Method added successfully
+2023-05-31 18:14:10,143 [main] INFO logger_file - User is on retail website
+2023-05-31 18:14:11,197 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:14:14,796 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:14:14,797 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:14:15,449 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:14:17,469 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:14:19,122 [main] INFO logger_file - User was able to click on account option
+2023-05-31 18:14:21,169 [main] INFO logger_file - edit button was clicked
+2023-05-31 18:14:24,790 [main] INFO logger_file - The information was updated successfully
+2023-05-31 18:14:25,402 [main] INFO logger_file - button was clicked successfully
+2023-05-31 18:14:25,423 [main] INFO logger_file -  Payment Method added successfully
+2023-05-31 18:14:34,041 [main] INFO logger_file - User is on retail website
+2023-05-31 18:14:34,949 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:14:38,565 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:14:38,565 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:14:39,261 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:14:41,427 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:14:42,843 [main] INFO logger_file - User was able to click on account option
+2023-05-31 18:14:45,183 [main] INFO logger_file - User was able to click on remove button successfully
+2023-05-31 18:14:45,216 [main] INFO logger_file - Card removed successfully
+2023-05-31 18:14:53,792 [main] INFO logger_file - User is on retail website
+2023-05-31 18:14:54,757 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:14:58,401 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:14:58,402 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:14:59,349 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:15:01,377 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:15:03,063 [main] INFO logger_file - User was able to click on account option
+2023-05-31 18:15:04,444 [main] INFO logger_file - add method option clicked successfully
+2023-05-31 18:15:09,161 [main] INFO logger_file - User was able to add address successfully
+2023-05-31 18:15:10,082 [main] INFO logger_file - the address button was cliked
+2023-05-31 18:15:10,143 [main] INFO logger_file -  Payment Method added successfully
+2023-05-31 18:15:18,498 [main] INFO logger_file - User is on retail website
+2023-05-31 18:15:19,419 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:15:22,684 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:15:22,685 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:15:23,543 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:15:25,666 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:15:27,473 [main] INFO logger_file - User was able to click on account option
+2023-05-31 18:15:28,707 [main] INFO logger_file - edit address button was clicked successfully
+2023-05-31 18:15:37,826 [main] INFO logger_file - The information has been apdated
+2023-05-31 18:15:38,550 [main] INFO logger_file - The butto was clicked successfully
+2023-05-31 18:15:38,612 [main] INFO logger_file -  Payment Method added successfully
+2023-05-31 18:15:47,239 [main] INFO logger_file - User is on retail website
+2023-05-31 18:15:48,295 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:15:52,041 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:15:52,041 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:15:52,880 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:15:54,748 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:15:56,348 [main] INFO logger_file - User was able to click on account option
+2023-05-31 18:15:57,493 [main] INFO logger_file - Remove Address button clicked
+2023-05-31 18:15:57,517 [main] INFO logger_file - Address removed
+2023-05-31 18:23:08,757 [main] INFO logger_file - User is on retail website
+2023-05-31 18:23:09,680 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:23:13,301 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:23:13,301 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:23:14,645 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:23:16,288 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:23:17,872 [main] INFO logger_file - User was able to click on account option
+2023-05-31 18:23:20,099 [main] INFO logger_file - Bahara5714627777 user was able to enter the values
+2023-05-31 18:23:21,054 [main] INFO logger_file - User was able to click on update button successfully
+2023-05-31 18:23:22,196 [main] INFO logger_file - User profile information has been upadted
+2023-05-31 18:23:31,250 [main] INFO logger_file - User is on retail website
+2023-05-31 18:23:32,102 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:23:35,692 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:23:35,693 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:23:37,189 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:23:38,614 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:23:40,178 [main] INFO logger_file - User was able to click on account option
+2023-05-31 18:23:41,508 [main] INFO logger_file - User was able to click on account option
+2023-05-31 18:23:41,846 [main] INFO logger_file - User was able to click on add a payment link successfully
+2023-05-31 18:23:45,614 [main] INFO logger_file - Card information has entered successfully
+2023-05-31 18:23:51,313 [main] INFO logger_file - user was able to click on payment submition button
+2023-05-31 18:23:51,488 [main] INFO logger_file -  Payment Method added successfully
+2023-05-31 18:24:06,599 [main] INFO logger_file - User is on retail website
+2023-05-31 18:24:07,485 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:24:10,974 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:24:10,975 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:24:11,929 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:24:14,163 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:24:16,421 [main] INFO logger_file - User was able to click on account option
+2023-05-31 18:24:17,783 [main] INFO logger_file - edit button was clicked
+2023-05-31 18:24:21,060 [main] INFO logger_file - The information was updated successfully
+2023-05-31 18:24:21,634 [main] INFO logger_file - button was clicked successfully
+2023-05-31 18:24:21,834 [main] INFO logger_file -  Payment Method added successfully
+2023-05-31 18:24:30,635 [main] INFO logger_file - User is on retail website
+2023-05-31 18:24:31,500 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:24:35,070 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:24:35,071 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:24:36,390 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:24:37,875 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:24:39,317 [main] INFO logger_file - User was able to click on account option
+2023-05-31 18:24:41,460 [main] INFO logger_file - User was able to click on remove button successfully
+2023-05-31 18:24:41,516 [main] INFO logger_file - Card removed successfully
+2023-05-31 18:24:50,560 [main] INFO logger_file - User is on retail website
+2023-05-31 18:24:51,414 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:24:54,971 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:24:54,972 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:24:56,585 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:24:58,344 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:25:00,531 [main] INFO logger_file - User was able to click on account option
+2023-05-31 18:25:01,485 [main] INFO logger_file - add method option clicked successfully
+2023-05-31 18:25:05,970 [main] INFO logger_file - User was able to add address successfully
+2023-05-31 18:25:06,646 [main] INFO logger_file - the address button was cliked
+2023-05-31 18:25:06,900 [main] INFO logger_file -  Payment Method added successfully
+2023-05-31 18:25:16,336 [main] INFO logger_file - User is on retail website
+2023-05-31 18:25:17,111 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:25:20,697 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:25:20,698 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:25:21,388 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:25:23,815 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:25:25,121 [main] INFO logger_file - User was able to click on account option
+2023-05-31 18:25:26,819 [main] INFO logger_file - edit address button was clicked successfully
+2023-05-31 18:25:36,307 [main] INFO logger_file - The information has been apdated
+2023-05-31 18:25:37,095 [main] INFO logger_file - The butto was clicked successfully
+2023-05-31 18:25:37,159 [main] INFO logger_file -  Payment Method added successfully
+2023-05-31 18:25:45,888 [main] INFO logger_file - User is on retail website
+2023-05-31 18:25:46,630 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:25:50,361 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:25:50,361 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:25:51,096 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:25:52,919 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:25:53,841 [main] INFO logger_file - User was able to click on account option
+2023-05-31 18:25:55,458 [main] INFO logger_file - Remove Address button clicked
+2023-05-31 18:25:55,557 [main] INFO logger_file - Address removed
+2023-05-31 18:26:29,663 [main] INFO logger_file - User is on retail website
+2023-05-31 18:26:30,611 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:26:36,552 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:26:36,552 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:26:37,737 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:26:39,510 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:26:40,333 [main] INFO logger_file - User was able to click on account option
+2023-05-31 18:26:41,654 [main] INFO logger_file - Bahara5714627777 user was able to enter the values
+2023-05-31 18:26:42,506 [main] INFO logger_file - User was able to click on update button successfully
+2023-05-31 18:26:43,736 [main] INFO logger_file - User profile information has been upadted
+2023-05-31 18:26:52,973 [main] INFO logger_file - User is on retail website
+2023-05-31 18:26:53,798 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:26:57,410 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:26:57,411 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:26:58,432 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:27:00,544 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:27:01,985 [main] INFO logger_file - User was able to click on account option
+2023-05-31 18:27:03,253 [main] INFO logger_file - User was able to click on account option
+2023-05-31 18:27:03,534 [main] INFO logger_file - User was able to click on add a payment link successfully
+2023-05-31 18:27:07,250 [main] INFO logger_file - Card information has entered successfully
+2023-05-31 18:27:12,811 [main] INFO logger_file - user was able to click on payment submition button
+2023-05-31 18:27:13,030 [main] INFO logger_file -  Payment Method added successfully
+2023-05-31 18:27:21,560 [main] INFO logger_file - User is on retail website
+2023-05-31 18:27:22,704 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:27:26,101 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:27:26,103 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:27:27,877 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:27:29,375 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:27:30,947 [main] INFO logger_file - User was able to click on account option
+2023-05-31 18:27:32,963 [main] INFO logger_file - edit button was clicked
+2023-05-31 18:27:36,804 [main] INFO logger_file - The information was updated successfully
+2023-05-31 18:27:37,391 [main] INFO logger_file - button was clicked successfully
+2023-05-31 18:27:37,419 [main] INFO logger_file -  Payment Method added successfully
+2023-05-31 18:27:49,364 [main] INFO logger_file - User is on retail website
+2023-05-31 18:27:50,159 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:27:53,656 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:27:53,657 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:27:54,873 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:27:56,628 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:27:57,926 [main] INFO logger_file - User was able to click on account option
+2023-05-31 18:28:00,274 [main] INFO logger_file - User was able to click on remove button successfully
+2023-05-31 18:28:00,299 [main] INFO logger_file - Card removed successfully
+2023-05-31 18:28:08,988 [main] INFO logger_file - User is on retail website
+2023-05-31 18:28:09,976 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:28:13,197 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:28:13,198 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:28:14,292 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:28:16,386 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:28:18,012 [main] INFO logger_file - User was able to click on account option
+2023-05-31 18:28:19,660 [main] INFO logger_file - add method option clicked successfully
+2023-05-31 18:28:24,431 [main] INFO logger_file - User was able to add address successfully
+2023-05-31 18:28:25,025 [main] INFO logger_file - the address button was cliked
+2023-05-31 18:28:25,082 [main] INFO logger_file -  Payment Method added successfully
+2023-05-31 18:28:33,494 [main] INFO logger_file - User is on retail website
+2023-05-31 18:28:34,499 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:28:37,682 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:28:37,682 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:28:39,139 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:28:40,885 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:28:42,504 [main] INFO logger_file - User was able to click on account option
+2023-05-31 18:28:43,959 [main] INFO logger_file - edit address button was clicked successfully
+2023-05-31 18:28:52,998 [main] INFO logger_file - The information has been apdated
+2023-05-31 18:28:53,815 [main] INFO logger_file - The butto was clicked successfully
+2023-05-31 18:28:54,021 [main] INFO logger_file -  Payment Method added successfully
+2023-05-31 18:29:03,291 [main] INFO logger_file - User is on retail website
+2023-05-31 18:29:04,310 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:29:07,950 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:29:07,951 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:29:08,992 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:29:11,287 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:29:12,767 [main] INFO logger_file - User was able to click on account option
+2023-05-31 18:29:13,907 [main] INFO logger_file - Remove Address button clicked
+2023-05-31 18:29:13,934 [main] INFO logger_file - Address removed
+2023-05-31 18:41:27,995 [main] INFO logger_file - User is on retail website
+2023-05-31 18:41:28,854 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:41:32,812 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:41:32,812 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:41:33,982 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:41:35,760 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:41:37,838 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-05-31 18:41:39,358 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-05-31 18:41:40,010 [main] INFO logger_file - search button was clicked successfully
+2023-05-31 18:41:40,806 [main] INFO logger_file - User clicked the item successfully
+2023-05-31 18:41:42,808 [main] INFO logger_file - 2 was selected
+2023-05-31 18:41:43,379 [main] INFO logger_file - User added to cart successfully
+2023-05-31 18:42:31,279 [main] INFO logger_file - User is on retail website
+2023-05-31 18:42:32,193 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:42:35,811 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:42:35,811 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:42:37,014 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:42:38,854 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:42:41,211 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-05-31 18:42:42,593 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-05-31 18:42:43,263 [main] INFO logger_file - search button was clicked successfully
+2023-05-31 18:42:44,197 [main] INFO logger_file - User clicked the item successfully
+2023-05-31 18:42:46,009 [main] INFO logger_file - 2 was selected
+2023-05-31 18:42:46,551 [main] INFO logger_file - User added to cart successfully
+2023-05-31 18:44:30,102 [main] INFO logger_file - User is on retail website
+2023-05-31 18:44:31,033 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:44:34,462 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:44:34,463 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:44:35,866 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:44:37,844 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:44:39,904 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-05-31 18:44:41,341 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-05-31 18:44:41,963 [main] INFO logger_file - search button was clicked successfully
+2023-05-31 18:44:42,868 [main] INFO logger_file - User clicked the item successfully
+2023-05-31 18:44:44,779 [main] INFO logger_file - 2 was selected
+2023-05-31 18:44:45,285 [main] INFO logger_file - User added to cart successfully
+2023-05-31 18:49:33,424 [main] INFO logger_file - User is on retail website
+2023-05-31 18:49:34,353 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:49:37,644 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:49:37,645 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:49:38,994 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:49:40,651 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:49:42,407 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-05-31 18:49:43,693 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-05-31 18:49:44,190 [main] INFO logger_file - search button was clicked successfully
+2023-05-31 18:49:44,929 [main] INFO logger_file - User clicked the item successfully
+2023-05-31 18:49:46,447 [main] INFO logger_file - 2 was selected
+2023-05-31 18:49:47,070 [main] INFO logger_file - User added to cart successfully
+2023-05-31 18:51:34,348 [main] INFO logger_file - User is on retail website
+2023-05-31 18:51:35,418 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:51:41,332 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:51:41,332 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:51:42,605 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:51:44,388 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:51:45,453 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-05-31 18:51:46,452 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-05-31 18:51:47,510 [main] INFO logger_file - search button was clicked successfully
+2023-05-31 18:51:49,154 [main] INFO logger_file - User clicked the item successfully
+2023-05-31 18:51:51,594 [main] INFO logger_file - 2 was selected
+2023-05-31 18:51:52,124 [main] INFO logger_file - User added to cart successfully
+2023-05-31 18:55:21,677 [main] INFO logger_file - User is on retail website
+2023-05-31 18:55:22,670 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:55:26,550 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:55:26,551 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:55:27,882 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:55:29,433 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:55:31,478 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-05-31 18:55:32,765 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-05-31 18:55:33,526 [main] INFO logger_file - search button was clicked successfully
+2023-05-31 18:55:34,307 [main] INFO logger_file - User clicked the item successfully
+2023-05-31 18:55:36,090 [main] INFO logger_file - 2 was selected
+2023-05-31 18:55:36,642 [main] INFO logger_file - User added to cart successfully
+2023-05-31 18:55:36,972 [main] INFO logger_file - User was able to change the quantity2
+2023-05-31 18:55:37,680 [main] INFO logger_file - user delete the item
+2023-05-31 18:57:39,930 [main] INFO logger_file - User is on retail website
+2023-05-31 18:57:40,806 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:57:44,501 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 18:57:44,501 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:57:46,043 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:57:47,399 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:57:49,905 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-05-31 18:57:51,199 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-05-31 18:57:51,883 [main] INFO logger_file - search button was clicked successfully
+2023-05-31 18:57:52,570 [main] INFO logger_file - User clicked the item successfully
+2023-05-31 18:57:54,284 [main] INFO logger_file - 2 was selected
+2023-05-31 18:57:54,837 [main] INFO logger_file - User added to cart successfully
+2023-05-31 18:58:04,398 [main] INFO logger_file - User is on retail website
+2023-05-31 18:58:05,507 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 18:58:09,132 [main] INFO logger_file - bn300@gmail.comemail was entered successfully
+2023-05-31 18:58:09,132 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 18:58:10,171 [main] INFO logger_file - user was able to login successfully
+2023-05-31 18:58:12,020 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 18:58:13,903 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-05-31 18:58:15,162 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-05-31 18:58:15,859 [main] INFO logger_file - search button was clicked successfully
+2023-05-31 18:58:16,772 [main] INFO logger_file - User clicked the item successfully
+2023-05-31 18:58:18,329 [main] INFO logger_file - 5 was selected
+2023-05-31 18:58:18,780 [main] INFO logger_file - User added to cart successfully
+2023-05-31 18:58:19,412 [main] INFO logger_file - User was able to change the quantity5
+2023-05-31 18:58:20,289 [main] INFO logger_file - User was able to click on cart option successfully
+2023-05-31 18:58:20,727 [main] INFO logger_file - User was able to click on Proceed to Checkout button successfully
+2023-05-31 18:58:21,377 [main] INFO logger_file - User was able to click on Place Your Order successfully 
+2023-05-31 18:58:22,044 [main] INFO logger_file - User was able to see the message
+2023-05-31 19:00:17,271 [main] INFO logger_file - User is on retail website
+2023-05-31 19:00:18,301 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 19:00:22,441 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 19:00:22,442 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 19:00:24,040 [main] INFO logger_file - user was able to login successfully
+2023-05-31 19:00:25,523 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 19:00:27,541 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-05-31 19:00:28,798 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-05-31 19:00:29,559 [main] INFO logger_file - search button was clicked successfully
+2023-05-31 19:00:30,466 [main] INFO logger_file - User clicked the item successfully
+2023-05-31 19:00:32,235 [main] INFO logger_file - 2 was selected
+2023-05-31 19:00:32,766 [main] INFO logger_file - User added to cart successfully
+2023-05-31 19:00:33,064 [main] INFO logger_file - User was able to change the quantity2
+2023-05-31 19:00:33,871 [main] INFO logger_file - user delete the item
+2023-05-31 19:00:42,662 [main] INFO logger_file - User is on retail website
+2023-05-31 19:00:43,516 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 19:00:46,754 [main] INFO logger_file - bn300@gmail.comemail was entered successfully
+2023-05-31 19:00:46,754 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 19:00:47,479 [main] INFO logger_file - user was able to login successfully
+2023-05-31 19:00:49,831 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 19:00:51,688 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-05-31 19:00:52,969 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-05-31 19:00:53,593 [main] INFO logger_file - search button was clicked successfully
+2023-05-31 19:00:54,322 [main] INFO logger_file - User clicked the item successfully
+2023-05-31 19:00:55,903 [main] INFO logger_file - 5 was selected
+2023-05-31 19:00:56,500 [main] INFO logger_file - User added to cart successfully
+2023-05-31 19:00:56,797 [main] INFO logger_file - User was able to change the quantity5
+2023-05-31 19:00:57,419 [main] INFO logger_file - User was able to click on cart option successfully
+2023-05-31 19:00:57,843 [main] INFO logger_file - User was able to click on Proceed to Checkout button successfully
+2023-05-31 19:00:58,467 [main] INFO logger_file - User was able to click on Place Your Order successfully 
+2023-05-31 19:00:59,099 [main] INFO logger_file - User was able to see the message
+2023-05-31 19:09:02,735 [main] INFO logger_file - User is on retail website
+2023-05-31 19:09:03,702 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 19:09:09,173 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 19:09:09,174 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 19:09:10,555 [main] INFO logger_file - user was able to login successfully
+2023-05-31 19:09:12,424 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 19:09:13,509 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-05-31 19:09:14,539 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-05-31 19:09:15,048 [main] INFO logger_file - search button was clicked successfully
+2023-05-31 19:09:17,406 [main] INFO logger_file - User clicked the item successfully
+2023-05-31 19:09:19,947 [main] INFO logger_file - 2 was selected
+2023-05-31 19:09:20,233 [main] INFO logger_file - User added to cart successfully
+2023-05-31 19:09:30,635 [main] INFO logger_file - User is on retail website
+2023-05-31 19:09:31,628 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 19:09:37,485 [main] INFO logger_file - bn300@gmail.comemail was entered successfully
+2023-05-31 19:09:37,486 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 19:09:39,180 [main] INFO logger_file - user was able to login successfully
+2023-05-31 19:09:41,043 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 19:09:42,124 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-05-31 19:09:43,047 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-05-31 19:09:43,588 [main] INFO logger_file - search button was clicked successfully
+2023-05-31 19:09:44,721 [main] INFO logger_file - User clicked the item successfully
+2023-05-31 19:09:47,210 [main] INFO logger_file - 5 was selected
+2023-05-31 19:09:47,635 [main] INFO logger_file - User added to cart successfully
+2023-05-31 19:09:48,376 [main] INFO logger_file - User was able to change the quantity5
+2023-05-31 19:09:49,037 [main] INFO logger_file - User was able to click on cart option successfully
+2023-05-31 19:09:49,373 [main] INFO logger_file - User was able to click on Proceed to Checkout button successfully
+2023-05-31 19:09:49,650 [main] INFO logger_file - User was able to click on Place Your Order successfully 
+2023-05-31 19:09:50,197 [main] INFO logger_file - User was able to see the message
+2023-05-31 19:11:26,058 [main] INFO logger_file - User is on retail website
+2023-05-31 19:11:26,893 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 19:11:30,273 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 19:11:30,274 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 19:11:31,739 [main] INFO logger_file - user was able to login successfully
+2023-05-31 19:11:33,017 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 19:11:34,859 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-05-31 19:11:36,110 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-05-31 19:11:36,712 [main] INFO logger_file - search button was clicked successfully
+2023-05-31 19:11:37,397 [main] INFO logger_file - User clicked the item successfully
+2023-05-31 19:11:39,221 [main] INFO logger_file - 2 was selected
+2023-05-31 19:11:39,769 [main] INFO logger_file - User added to cart successfully
+2023-05-31 19:11:40,073 [main] INFO logger_file - User was able to change the quantity2
+2023-05-31 19:11:40,873 [main] INFO logger_file - user delete the item
+2023-05-31 19:11:49,323 [main] INFO logger_file - User is on retail website
+2023-05-31 19:11:50,355 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 19:11:56,709 [main] INFO logger_file - bn300@gmail.comemail was entered successfully
+2023-05-31 19:11:56,712 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 19:11:57,787 [main] INFO logger_file - user was able to login successfully
+2023-05-31 19:11:59,447 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 19:12:00,435 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-05-31 19:12:01,436 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-05-31 19:12:01,961 [main] INFO logger_file - search button was clicked successfully
+2023-05-31 19:12:02,808 [main] INFO logger_file - User clicked the item successfully
+2023-05-31 19:12:06,914 [main] INFO logger_file - 5 was selected
+2023-05-31 19:12:07,624 [main] INFO logger_file - User added to cart successfully
+2023-05-31 19:12:07,998 [main] INFO logger_file - User was able to change the quantity5
+2023-05-31 19:12:08,721 [main] INFO logger_file - User was able to click on cart option successfully
+2023-05-31 19:12:08,989 [main] INFO logger_file - User was able to click on Proceed to Checkout button successfully
+2023-05-31 19:12:09,310 [main] INFO logger_file - User was able to click on Place Your Order successfully 
+2023-05-31 19:12:10,004 [main] INFO logger_file - User was able to see the message
+2023-05-31 19:13:43,404 [main] INFO logger_file - User is on retail website
+2023-05-31 19:13:44,270 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 19:13:47,958 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 19:13:47,959 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 19:13:48,735 [main] INFO logger_file - user was able to login successfully
+2023-05-31 19:13:51,007 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 19:13:52,992 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-05-31 19:13:54,355 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-05-31 19:13:55,060 [main] INFO logger_file - search button was clicked successfully
+2023-05-31 19:13:55,906 [main] INFO logger_file - User clicked the item successfully
+2023-05-31 19:13:57,797 [main] INFO logger_file - 2 was selected
+2023-05-31 19:13:58,335 [main] INFO logger_file - User added to cart successfully
+2023-05-31 19:13:58,696 [main] INFO logger_file - User was able to change the quantity2
+2023-05-31 19:13:59,444 [main] INFO logger_file - user delete the item
+2023-05-31 19:14:08,702 [main] INFO logger_file - User is on retail website
+2023-05-31 19:14:09,782 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 19:14:14,791 [main] INFO logger_file - bn300@gmail.comemail was entered successfully
+2023-05-31 19:14:14,792 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 19:14:16,324 [main] INFO logger_file - user was able to login successfully
+2023-05-31 19:14:18,271 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 19:14:19,429 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-05-31 19:14:20,336 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-05-31 19:14:20,843 [main] INFO logger_file - search button was clicked successfully
+2023-05-31 19:14:23,545 [main] INFO logger_file - User clicked the item successfully
+2023-05-31 19:14:25,567 [main] INFO logger_file - 5 was selected
+2023-05-31 19:14:26,085 [main] INFO logger_file - User added to cart successfully
+2023-05-31 19:14:26,462 [main] INFO logger_file - User was able to change the quantity5
+2023-05-31 19:14:26,877 [main] INFO logger_file - User was able to click on cart option successfully
+2023-05-31 19:14:27,170 [main] INFO logger_file - User was able to click on Proceed to Checkout button successfully
+2023-05-31 19:14:27,392 [main] INFO logger_file - User was able to click on Place Your Order successfully 
+2023-05-31 19:14:28,080 [main] INFO logger_file - User was able to see the message
+2023-05-31 19:16:57,911 [main] INFO logger_file - User is on retail website
+2023-05-31 19:16:58,702 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 19:17:02,103 [main] INFO logger_file - niazi@gmail.comemail was entered successfully
+2023-05-31 19:17:02,104 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 19:17:03,461 [main] INFO logger_file - User was able to login
+2023-05-31 19:17:04,841 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 19:17:06,620 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-05-31 19:17:07,953 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-05-31 19:17:08,589 [main] INFO logger_file - search button was clicked successfully
+2023-05-31 19:17:09,105 [main] INFO logger_file - User was able to click on orders section
+2023-05-31 19:18:43,768 [main] INFO logger_file - User is on retail website
+2023-05-31 19:18:44,494 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 19:18:46,982 [main] INFO logger_file - niazi@gmail.comemail was entered successfully
+2023-05-31 19:18:46,983 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 19:18:48,889 [main] INFO logger_file - User was able to login
+2023-05-31 19:18:50,765 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 19:18:52,742 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-05-31 19:18:54,168 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-05-31 19:18:54,684 [main] INFO logger_file - search button was clicked successfully
+2023-05-31 19:18:55,294 [main] INFO logger_file - User was able to click on orders section
+2023-05-31 19:41:13,922 [main] INFO logger_file - User is on retail website
+2023-05-31 19:41:14,757 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 19:41:18,259 [main] INFO logger_file - niazi@gmail.comemail was entered successfully
+2023-05-31 19:41:18,261 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 19:41:19,633 [main] INFO logger_file - User was able to login
+2023-05-31 19:41:21,098 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 19:41:22,971 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-05-31 19:41:24,176 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-05-31 19:41:24,823 [main] INFO logger_file - search button was clicked successfully
+2023-05-31 19:41:25,636 [main] INFO logger_file - User clicked the item successfully
+2023-05-31 19:41:26,656 [main] INFO logger_file - User added to cart successfully
+2023-05-31 19:41:27,612 [main] INFO logger_file - User was able to click on cart option successfully
+2023-05-31 19:41:27,945 [main] INFO logger_file - User was able to click on Proceed to Checkout button successfully
+2023-05-31 19:41:28,178 [main] INFO logger_file - User was able to click on Place Your Order successfully 
+2023-05-31 19:41:28,915 [main] INFO logger_file - User was able to click on orders section
+2023-05-31 19:41:29,696 [main] INFO logger_file - User was able to click on first order in list successfully
+2023-05-31 19:41:30,440 [main] INFO logger_file - User was able to click on Return Items button successfully
+2023-05-31 19:41:31,646 [main] INFO logger_file - User was able to choose the option successfully
+2023-05-31 19:41:32,586 [main] INFO logger_file - User was able to choose the option successfully
+2023-05-31 19:41:33,364 [main] INFO logger_file - User was able toclick on Return Order button successfully
+2023-05-31 19:41:33,592 [main] INFO logger_file - User was able to see the message
+2023-05-31 19:43:00,694 [main] INFO logger_file - User is on retail website
+2023-05-31 19:43:01,462 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 19:43:04,522 [main] INFO logger_file - bn300@gmail.comemail was entered successfully
+2023-05-31 19:43:04,523 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 19:43:05,553 [main] INFO logger_file - user was able to login successfully
+2023-05-31 19:43:07,644 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 19:43:09,118 [main] INFO logger_file - User was able to click on orders section
+2023-05-31 19:43:09,752 [main] INFO logger_file - User was able to click on first order in list successfully
+2023-05-31 19:43:10,918 [main] INFO logger_file - User was able to click on Cancel The Order successfully
+2023-05-31 19:43:12,095 [main] INFO logger_file - User was able to choose the option successfully
+2023-05-31 19:43:12,753 [main] INFO logger_file - User was able to click on Cancel Order button  successfully
+2023-05-31 19:43:13,080 [main] INFO logger_file - User was able to see the message
+2023-05-31 19:44:41,469 [main] INFO logger_file - User is on retail website
+2023-05-31 19:44:42,295 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 19:44:45,635 [main] INFO logger_file - niazi@gmail.comemail was entered successfully
+2023-05-31 19:44:45,635 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 19:44:47,063 [main] INFO logger_file - User was able to login
+2023-05-31 19:44:48,463 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 19:44:50,377 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-05-31 19:44:51,654 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-05-31 19:44:52,301 [main] INFO logger_file - search button was clicked successfully
+2023-05-31 19:44:53,316 [main] INFO logger_file - User clicked the item successfully
+2023-05-31 19:44:54,178 [main] INFO logger_file - User added to cart successfully
+2023-05-31 19:44:55,362 [main] INFO logger_file - User was able to click on cart option successfully
+2023-05-31 19:44:55,659 [main] INFO logger_file - User was able to click on Proceed to Checkout button successfully
+2023-05-31 19:44:55,872 [main] INFO logger_file - User was able to click on Place Your Order successfully 
+2023-05-31 19:44:56,543 [main] INFO logger_file - User was able to click on orders section
+2023-05-31 19:44:57,310 [main] INFO logger_file - User was able to click on first order in list successfully
+2023-05-31 19:44:58,134 [main] INFO logger_file - User was able to click on Return Items button successfully
+2023-05-31 19:44:59,302 [main] INFO logger_file - User was able to choose the option successfully
+2023-05-31 19:45:00,236 [main] INFO logger_file - User was able to choose the option successfully
+2023-05-31 19:45:00,800 [main] INFO logger_file - User was able toclick on Return Order button successfully
+2023-05-31 19:45:01,797 [main] INFO logger_file - User was able to see the message
+2023-05-31 19:45:38,316 [main] INFO logger_file - User is on retail website
+2023-05-31 19:45:39,234 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 19:45:42,566 [main] INFO logger_file - bn300@gmail.comemail was entered successfully
+2023-05-31 19:45:42,566 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 19:45:43,345 [main] INFO logger_file - user was able to login successfully
+2023-05-31 19:45:45,530 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 19:45:46,921 [main] INFO logger_file - User was able to click on orders section
+2023-05-31 19:45:47,515 [main] INFO logger_file - User was able to click on first order in list successfully
+2023-05-31 19:45:49,092 [main] INFO logger_file - User was able to click on review button successfully
+2023-05-31 19:45:51,443 [main] INFO logger_file - User was able to write review successfully
+2023-05-31 19:45:51,835 [main] INFO logger_file - User was able to add review successfully
+2023-05-31 19:45:53,276 [main] INFO logger_file - User was able to see the message
+2023-05-31 19:50:37,678 [main] INFO logger_file - User is on retail website
+2023-05-31 19:50:38,417 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 19:50:42,117 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 19:50:42,118 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 19:50:45,173 [main] INFO logger_file - user was able to login successfully
+2023-05-31 19:50:47,334 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 19:50:48,676 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-05-31 19:50:49,724 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-05-31 19:50:50,317 [main] INFO logger_file - search button was clicked successfully
+2023-05-31 19:50:50,863 [main] INFO logger_file - User clicked the item successfully
+2023-05-31 19:50:53,398 [main] INFO logger_file - 2 was selected
+2023-05-31 19:50:53,858 [main] INFO logger_file - User added to cart successfully
+2023-05-31 19:51:32,943 [main] INFO logger_file - User is on retail website
+2023-05-31 19:51:33,812 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 19:51:36,806 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 19:51:36,806 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 19:51:37,510 [main] INFO logger_file - user was able to login successfully
+2023-05-31 19:51:39,754 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 19:51:41,583 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-05-31 19:51:42,828 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-05-31 19:51:43,537 [main] INFO logger_file - search button was clicked successfully
+2023-05-31 19:51:44,345 [main] INFO logger_file - User clicked the item successfully
+2023-05-31 19:51:46,020 [main] INFO logger_file - 2 was selected
+2023-05-31 19:51:46,584 [main] INFO logger_file - User added to cart successfully
+2023-05-31 19:51:46,788 [main] INFO logger_file - User was able to change the quantity2
+2023-05-31 19:51:47,604 [main] INFO logger_file - user delete the item
+2023-05-31 19:54:55,078 [main] INFO logger_file - User is on retail website
+2023-05-31 19:54:55,897 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 19:54:59,076 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 19:54:59,077 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 19:54:59,736 [main] INFO logger_file - user was able to login successfully
+2023-05-31 19:55:02,455 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 19:55:04,097 [main] INFO logger_file - User was able to click on account option
+2023-05-31 19:55:05,937 [main] INFO logger_file - Bahara5714627777 user was able to enter the values
+2023-05-31 19:55:06,713 [main] INFO logger_file - User was able to click on update button successfully
+2023-05-31 19:55:07,651 [main] INFO logger_file - User profile information has been upadted
+2023-05-31 19:55:16,410 [main] INFO logger_file - User is on retail website
+2023-05-31 19:55:17,167 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 19:55:20,432 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 19:55:20,433 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 19:55:23,757 [main] INFO logger_file - user was able to login successfully
+2023-05-31 19:55:25,762 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 19:55:26,769 [main] INFO logger_file - User was able to click on account option
+2023-05-31 19:55:27,121 [main] INFO logger_file - User was able to click on account option
+2023-05-31 19:55:27,398 [main] INFO logger_file - User was able to click on add a payment link successfully
+2023-05-31 19:55:33,937 [main] INFO logger_file - Card information has entered successfully
+2023-05-31 19:55:39,803 [main] INFO logger_file - user was able to click on payment submition button
+2023-05-31 19:55:39,972 [main] INFO logger_file -  Payment Method added successfully
+2023-05-31 19:55:49,365 [main] INFO logger_file - User is on retail website
+2023-05-31 19:55:50,195 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 19:55:53,581 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 19:55:53,583 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 19:55:55,206 [main] INFO logger_file - user was able to login successfully
+2023-05-31 19:55:56,769 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 19:55:58,679 [main] INFO logger_file - User was able to click on account option
+2023-05-31 19:55:59,811 [main] INFO logger_file - edit button was clicked
+2023-05-31 19:56:03,511 [main] INFO logger_file - The information was updated successfully
+2023-05-31 19:56:04,134 [main] INFO logger_file - button was clicked successfully
+2023-05-31 19:56:04,189 [main] INFO logger_file -  Payment Method added successfully
+2023-05-31 19:56:12,870 [main] INFO logger_file - User is on retail website
+2023-05-31 19:56:13,732 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 19:56:20,034 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 19:56:20,035 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 19:56:21,487 [main] INFO logger_file - user was able to login successfully
+2023-05-31 19:56:23,372 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 19:56:24,363 [main] INFO logger_file - User was able to click on account option
+2023-05-31 19:56:25,461 [main] INFO logger_file - User was able to click on remove button successfully
+2023-05-31 19:56:25,487 [main] INFO logger_file - Card removed successfully
+2023-05-31 19:56:34,390 [main] INFO logger_file - User is on retail website
+2023-05-31 19:56:35,096 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 19:56:39,954 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 19:56:39,955 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 19:56:41,507 [main] INFO logger_file - user was able to login successfully
+2023-05-31 19:56:43,454 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 19:56:44,427 [main] INFO logger_file - User was able to click on account option
+2023-05-31 19:56:45,108 [main] INFO logger_file - add method option clicked successfully
+2023-05-31 19:56:49,938 [main] INFO logger_file - User was able to add address successfully
+2023-05-31 19:56:50,555 [main] INFO logger_file - the address button was cliked
+2023-05-31 19:56:50,598 [main] INFO logger_file -  Payment Method added successfully
+2023-05-31 19:56:59,328 [main] INFO logger_file - User is on retail website
+2023-05-31 19:57:00,145 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 19:57:03,344 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 19:57:03,344 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 19:57:04,332 [main] INFO logger_file - user was able to login successfully
+2023-05-31 19:57:07,514 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 19:57:09,055 [main] INFO logger_file - User was able to click on account option
+2023-05-31 19:57:09,829 [main] INFO logger_file - edit address button was clicked successfully
+2023-05-31 19:57:21,864 [main] INFO logger_file - The information has been apdated
+2023-05-31 19:57:22,910 [main] INFO logger_file - The butto was clicked successfully
+2023-05-31 19:57:22,950 [main] INFO logger_file -  Payment Method added successfully
+2023-05-31 19:57:36,176 [main] INFO logger_file - User is on retail website
+2023-05-31 19:57:36,913 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 19:57:40,329 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 19:57:40,330 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 19:57:40,932 [main] INFO logger_file - user was able to login successfully
+2023-05-31 19:57:43,106 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 19:57:45,304 [main] INFO logger_file - User was able to click on account option
+2023-05-31 19:57:46,179 [main] INFO logger_file - Remove Address button clicked
+2023-05-31 19:57:46,201 [main] INFO logger_file - Address removed
+2023-05-31 19:58:28,464 [main] INFO logger_file - User is on retail website
+2023-05-31 19:58:29,275 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 19:58:32,645 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 19:58:32,646 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 19:58:34,126 [main] INFO logger_file - user was able to login successfully
+2023-05-31 19:58:35,611 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 19:58:37,611 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-05-31 19:58:38,901 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-05-31 19:58:39,474 [main] INFO logger_file - search button was clicked successfully
+2023-05-31 19:58:40,369 [main] INFO logger_file - User clicked the item successfully
+2023-05-31 19:58:42,132 [main] INFO logger_file - 2 was selected
+2023-05-31 19:58:42,694 [main] INFO logger_file - User added to cart successfully
+2023-05-31 19:58:42,933 [main] INFO logger_file - User was able to change the quantity2
+2023-05-31 19:58:43,709 [main] INFO logger_file - user delete the item
+2023-05-31 20:01:26,526 [main] INFO logger_file - User is on retail website
+2023-05-31 20:01:27,436 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 20:01:30,942 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 20:01:30,943 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 20:01:32,005 [main] INFO logger_file - user was able to login successfully
+2023-05-31 20:01:33,728 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 20:01:35,533 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-05-31 20:01:36,678 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-05-31 20:01:37,380 [main] INFO logger_file - search button was clicked successfully
+2023-05-31 20:01:38,117 [main] INFO logger_file - User clicked the item successfully
+2023-05-31 20:01:39,774 [main] INFO logger_file - 2 was selected
+2023-05-31 20:01:40,328 [main] INFO logger_file - User added to cart successfully
+2023-05-31 20:01:40,574 [main] INFO logger_file - User was able to change the quantity2
+2023-05-31 20:01:41,447 [main] INFO logger_file - user delete the item
+2023-05-31 20:02:10,482 [main] INFO logger_file - User is on retail website
+2023-05-31 20:02:11,365 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 20:02:14,446 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 20:02:14,446 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 20:02:15,142 [main] INFO logger_file - user was able to login successfully
+2023-05-31 20:02:17,531 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 20:02:19,399 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-05-31 20:02:20,651 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-05-31 20:02:21,369 [main] INFO logger_file - search button was clicked successfully
+2023-05-31 20:02:22,095 [main] INFO logger_file - User clicked the item successfully
+2023-05-31 20:02:23,663 [main] INFO logger_file - 2 was selected
+2023-05-31 20:02:24,196 [main] INFO logger_file - User added to cart successfully
+2023-05-31 20:11:04,993 [main] INFO logger_file - User is on retail website
+2023-05-31 20:11:05,871 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 20:11:09,233 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 20:11:09,233 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 20:11:10,263 [main] INFO logger_file - user was able to login successfully
+2023-05-31 20:11:11,908 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 20:11:13,868 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-05-31 20:11:15,028 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-05-31 20:11:15,751 [main] INFO logger_file - search button was clicked successfully
+2023-05-31 20:11:16,582 [main] INFO logger_file - User clicked the item successfully
+2023-05-31 20:11:18,414 [main] INFO logger_file - 2 was selected
+2023-05-31 20:11:18,942 [main] INFO logger_file - User added to cart successfully
+2023-05-31 20:11:19,260 [main] INFO logger_file - User was able to change the quantity2
+2023-05-31 20:11:20,054 [main] INFO logger_file - user delete the item
+2023-05-31 20:11:48,506 [main] INFO logger_file - User is on retail website
+2023-05-31 20:11:49,351 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 20:11:52,468 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 20:11:52,469 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 20:11:53,407 [main] INFO logger_file - user was able to login successfully
+2023-05-31 20:11:55,667 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 20:11:57,594 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-05-31 20:11:58,930 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-05-31 20:11:59,639 [main] INFO logger_file - search button was clicked successfully
+2023-05-31 20:12:00,418 [main] INFO logger_file - User clicked the item successfully
+2023-05-31 20:12:02,167 [main] INFO logger_file - 2 was selected
+2023-05-31 20:12:02,831 [main] INFO logger_file - User added to cart successfully
+2023-05-31 20:12:42,104 [main] INFO logger_file - User is on retail website
+2023-05-31 20:12:42,757 [main] INFO logger_file - user click on All section option successfully
+2023-05-31 20:12:51,520 [main] INFO logger_file - User is on retail website
+2023-05-31 20:12:52,196 [main] INFO logger_file - user click on All section option successfully
+2023-05-31 20:13:01,108 [main] INFO logger_file - User is on retail website
+2023-05-31 20:13:01,677 [main] INFO logger_file - user click on All section option successfully
+2023-05-31 20:13:10,142 [main] INFO logger_file - User is on retail website
+2023-05-31 20:13:10,823 [main] INFO logger_file - user click on All section option successfully
+2023-05-31 20:13:19,254 [main] INFO logger_file - User is on retail website
+2023-05-31 20:13:19,883 [main] INFO logger_file - user click on All section option successfully
+2023-05-31 20:13:28,069 [main] INFO logger_file - User is on retail website
+2023-05-31 20:13:28,469 [main] INFO logger_file - user click on All section option successfully
+2023-05-31 20:13:36,816 [main] INFO logger_file - User is on retail website
+2023-05-31 20:13:37,682 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 20:13:41,059 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 20:13:41,060 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 20:13:41,778 [main] INFO logger_file - user was able to login successfully
+2023-05-31 20:13:43,954 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 20:13:45,728 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-05-31 20:13:46,862 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-05-31 20:13:47,587 [main] INFO logger_file - search button was clicked successfully
+2023-05-31 20:13:48,448 [main] INFO logger_file - User clicked the item successfully
+2023-05-31 20:13:50,151 [main] INFO logger_file - 2 was selected
+2023-05-31 20:13:50,844 [main] INFO logger_file - User added to cart successfully
+2023-05-31 20:13:51,105 [main] INFO logger_file - User was able to change the quantity2
+2023-05-31 20:13:51,972 [main] INFO logger_file - user delete the item
+2023-05-31 20:14:00,610 [main] INFO logger_file - User is on retail website
+2023-05-31 20:14:01,588 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 20:14:05,423 [main] INFO logger_file - bn300@gmail.comemail was entered successfully
+2023-05-31 20:14:05,423 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 20:14:06,594 [main] INFO logger_file - user was able to login successfully
+2023-05-31 20:14:08,039 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 20:14:09,783 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-05-31 20:14:10,891 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-05-31 20:14:11,514 [main] INFO logger_file - search button was clicked successfully
+2023-05-31 20:14:12,348 [main] INFO logger_file - User clicked the item successfully
+2023-05-31 20:14:13,795 [main] INFO logger_file - 5 was selected
+2023-05-31 20:14:14,272 [main] INFO logger_file - User added to cart successfully
+2023-05-31 20:14:14,543 [main] INFO logger_file - User was able to change the quantity5
+2023-05-31 20:14:15,185 [main] INFO logger_file - User was able to click on cart option successfully
+2023-05-31 20:14:15,506 [main] INFO logger_file - User was able to click on Proceed to Checkout button successfully
+2023-05-31 20:14:16,225 [main] INFO logger_file - User was able to click on Place Your Order successfully 
+2023-05-31 20:14:16,928 [main] INFO logger_file - User was able to see the message
+2023-05-31 20:14:25,478 [main] INFO logger_file - User is on retail website
+2023-05-31 20:14:26,429 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 20:14:29,544 [main] INFO logger_file - bn300@gmail.comemail was entered successfully
+2023-05-31 20:14:29,544 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 20:14:30,153 [main] INFO logger_file - user was able to login successfully
+2023-05-31 20:14:32,317 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 20:14:33,638 [main] INFO logger_file - User was able to click on orders section
+2023-05-31 20:14:34,441 [main] INFO logger_file - User was able to click on first order in list successfully
+2023-05-31 20:14:35,630 [main] INFO logger_file - User was able to click on Cancel The Order successfully
+2023-05-31 20:14:36,667 [main] INFO logger_file - User was able to choose the option successfully
+2023-05-31 20:14:37,187 [main] INFO logger_file - User was able to click on Cancel Order button  successfully
+2023-05-31 20:14:37,565 [main] INFO logger_file - User was able to see the message
+2023-05-31 20:14:46,058 [main] INFO logger_file - User is on retail website
+2023-05-31 20:14:46,941 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 20:14:49,907 [main] INFO logger_file - niazi@gmail.comemail was entered successfully
+2023-05-31 20:14:49,908 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 20:14:52,011 [main] INFO logger_file - User was able to login
+2023-05-31 20:14:53,471 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 20:14:55,319 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-05-31 20:14:56,646 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-05-31 20:14:57,502 [main] INFO logger_file - search button was clicked successfully
+2023-05-31 20:14:58,377 [main] INFO logger_file - User clicked the item successfully
+2023-05-31 20:14:59,144 [main] INFO logger_file - User added to cart successfully
+2023-05-31 20:15:00,206 [main] INFO logger_file - User was able to click on cart option successfully
+2023-05-31 20:15:00,603 [main] INFO logger_file - User was able to click on Proceed to Checkout button successfully
+2023-05-31 20:15:00,950 [main] INFO logger_file - User was able to click on Place Your Order successfully 
+2023-05-31 20:15:01,727 [main] INFO logger_file - User was able to click on orders section
+2023-05-31 20:15:02,426 [main] INFO logger_file - User was able to click on first order in list successfully
+2023-05-31 20:15:03,197 [main] INFO logger_file - User was able to click on Return Items button successfully
+2023-05-31 20:15:04,183 [main] INFO logger_file - User was able to choose the option successfully
+2023-05-31 20:15:05,096 [main] INFO logger_file - User was able to choose the option successfully
+2023-05-31 20:15:05,842 [main] INFO logger_file - User was able toclick on Return Order button successfully
+2023-05-31 20:15:05,975 [main] INFO logger_file - User was able to see the message
+2023-05-31 20:15:14,853 [main] INFO logger_file - User is on retail website
+2023-05-31 20:15:15,505 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 20:15:21,470 [main] INFO logger_file - bn300@gmail.comemail was entered successfully
+2023-05-31 20:15:21,471 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 20:15:22,867 [main] INFO logger_file - user was able to login successfully
+2023-05-31 20:15:24,618 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 20:15:25,363 [main] INFO logger_file - User was able to click on orders section
+2023-05-31 20:15:25,871 [main] INFO logger_file - User was able to click on first order in list successfully
+2023-05-31 20:15:27,475 [main] INFO logger_file - User was able to click on review button successfully
+2023-05-31 20:15:29,795 [main] INFO logger_file - User was able to write review successfully
+2023-05-31 20:15:30,092 [main] INFO logger_file - User was able to add review successfully
+2023-05-31 20:15:31,169 [main] INFO logger_file - User was able to see the message
+2023-05-31 20:16:57,400 [main] INFO logger_file - User is on retail website
+2023-05-31 20:16:58,307 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 20:17:04,261 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 20:17:04,265 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 20:17:07,063 [main] INFO logger_file - user was able to login successfully
+2023-05-31 20:17:09,314 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 20:17:10,134 [main] INFO logger_file - User was able to click on account option
+2023-05-31 20:17:11,856 [main] INFO logger_file - Bahara5714627777 user was able to enter the values
+2023-05-31 20:17:12,485 [main] INFO logger_file - User was able to click on update button successfully
+2023-05-31 20:17:14,638 [main] INFO logger_file - User profile information has been upadted
+2023-05-31 20:17:23,603 [main] INFO logger_file - User is on retail website
+2023-05-31 20:17:24,373 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 20:17:29,725 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 20:17:29,739 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 20:17:31,464 [main] INFO logger_file - user was able to login successfully
+2023-05-31 20:17:32,953 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 20:17:33,670 [main] INFO logger_file - User was able to click on account option
+2023-05-31 20:17:34,047 [main] INFO logger_file - User was able to click on account option
+2023-05-31 20:17:34,338 [main] INFO logger_file - User was able to click on add a payment link successfully
+2023-05-31 20:17:42,750 [main] INFO logger_file - Card information has entered successfully
+2023-05-31 20:17:48,566 [main] INFO logger_file - user was able to click on payment submition button
+2023-05-31 20:17:48,627 [main] INFO logger_file -  Payment Method added successfully
+2023-05-31 20:17:58,990 [main] INFO logger_file - User is on retail website
+2023-05-31 20:17:59,766 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 20:18:03,239 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 20:18:03,241 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 20:18:04,153 [main] INFO logger_file - user was able to login successfully
+2023-05-31 20:18:05,916 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 20:18:06,998 [main] INFO logger_file - User was able to click on account option
+2023-05-31 20:18:09,233 [main] INFO logger_file - edit button was clicked
+2023-05-31 20:18:12,975 [main] INFO logger_file - The information was updated successfully
+2023-05-31 20:18:13,632 [main] INFO logger_file - button was clicked successfully
+2023-05-31 20:18:13,784 [main] INFO logger_file -  Payment Method added successfully
+2023-05-31 20:18:22,633 [main] INFO logger_file - User is on retail website
+2023-05-31 20:18:23,467 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 20:18:26,676 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 20:18:26,676 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 20:18:27,181 [main] INFO logger_file - user was able to login successfully
+2023-05-31 20:18:29,440 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 20:18:31,095 [main] INFO logger_file - User was able to click on account option
+2023-05-31 20:18:33,319 [main] INFO logger_file - User was able to click on remove button successfully
+2023-05-31 20:18:33,382 [main] INFO logger_file - Card removed successfully
+2023-05-31 20:18:41,766 [main] INFO logger_file - User is on retail website
+2023-05-31 20:18:42,406 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 20:18:45,199 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 20:18:45,199 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 20:18:47,028 [main] INFO logger_file - user was able to login successfully
+2023-05-31 20:18:48,718 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 20:18:50,443 [main] INFO logger_file - User was able to click on account option
+2023-05-31 20:18:51,826 [main] INFO logger_file - add method option clicked successfully
+2023-05-31 20:18:55,922 [main] INFO logger_file - User was able to add address successfully
+2023-05-31 20:18:56,559 [main] INFO logger_file - the address button was cliked
+2023-05-31 20:18:56,732 [main] INFO logger_file -  Payment Method added successfully
+2023-05-31 20:19:05,561 [main] INFO logger_file - User is on retail website
+2023-05-31 20:19:06,460 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 20:19:09,590 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 20:19:09,590 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 20:19:10,143 [main] INFO logger_file - user was able to login successfully
+2023-05-31 20:19:12,450 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 20:19:13,949 [main] INFO logger_file - User was able to click on account option
+2023-05-31 20:19:15,366 [main] INFO logger_file - edit address button was clicked successfully
+2023-05-31 20:19:24,534 [main] INFO logger_file - The information has been apdated
+2023-05-31 20:19:25,296 [main] INFO logger_file - The butto was clicked successfully
+2023-05-31 20:19:25,508 [main] INFO logger_file -  Payment Method added successfully
+2023-05-31 20:19:34,427 [main] INFO logger_file - User is on retail website
+2023-05-31 20:19:35,181 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 20:19:38,554 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 20:19:38,555 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 20:19:39,261 [main] INFO logger_file - user was able to login successfully
+2023-05-31 20:19:41,334 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 20:19:42,710 [main] INFO logger_file - User was able to click on account option
+2023-05-31 20:19:43,694 [main] INFO logger_file - Remove Address button clicked
+2023-05-31 20:19:43,722 [main] INFO logger_file - Address removed
+2023-05-31 20:19:52,490 [main] INFO logger_file - User is on retail website
+2023-05-31 20:19:53,312 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 20:19:56,458 [main] INFO logger_file - bn200@gmail.comemail was entered successfully
+2023-05-31 20:19:56,459 [main] INFO logger_file - Bahar@123password was entered successfully
+2023-05-31 20:19:57,622 [main] INFO logger_file - user was able to login successfully
+2023-05-31 20:19:59,622 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-05-31 20:20:07,973 [main] INFO logger_file - User is on retail website
+2023-05-31 20:20:08,905 [main] INFO logger_file - User clicked on signin option successfully
+2023-05-31 20:20:09,142 [main] INFO logger_file - New account button was clicked
+2023-05-31 20:20:13,552 [main] INFO logger_file - Registration info entered
+2023-05-31 20:20:16,380 [main] INFO logger_file - Sign up button was clicked
+2023-05-31 20:20:18,511 [main] INFO logger_file - user was able to see the Account and logout option

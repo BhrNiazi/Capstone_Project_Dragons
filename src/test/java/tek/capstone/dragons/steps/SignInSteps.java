@@ -10,6 +10,7 @@ import io.cucumber.java.en.When;
 
 import tek.capstone.dragons.pages.POMFactory;
 import tek.capstone.dragons.utilities.CommonUtility;
+import tek.capstone.dragons.utilities.DataGenerator;
 
 public class SignInSteps extends CommonUtility {
 
@@ -72,8 +73,10 @@ public class SignInSteps extends CommonUtility {
 	public void userFillTheSignUpInformationWithBelowData(io.cucumber.datatable.DataTable dataTable) {
 		List<Map<String, String>> data = dataTable.asMaps(String.class, String.class);
 		for (Map<String, String> row : data) {
+			
+			String email = DataGenerator.getEmail();
 			sendText(factory.retailsigninpage().nameField, row.get("name"));
-			sendText(factory.retailsigninpage().emailField, row.get("email"));
+			sendText(factory.retailsigninpage().emailField, email);
 			sendText(factory.retailsigninpage().passwordField, row.get("password"));
 			sendText(factory.retailsigninpage().passConfirmField, row.get("confirmPassword"));
 			logger.info("Registration info entered");
