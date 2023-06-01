@@ -9,7 +9,7 @@ import io.cucumber.junit.CucumberOptions;
 
 	@RunWith(Cucumber.class)
 	@CucumberOptions(
-			tags = "@Regression",
+			tags = "@Test",
 	        features = ("classpath:features"),
 	        glue = "tek.capstone.dragons",
 	        dryRun = false, 

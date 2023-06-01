@@ -1,4 +1,4 @@
-@Regression
+@Test
 Feature: Retail Account Page
 
   Background: 
