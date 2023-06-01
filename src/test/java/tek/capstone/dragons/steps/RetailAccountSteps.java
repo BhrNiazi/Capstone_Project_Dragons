@@ -3,6 +3,7 @@ package tek.capstone.dragons.steps;
 import tek.capstone.dragons.pages.POMFactory;
 
 import tek.capstone.dragons.utilities.CommonUtility;
+import tek.capstone.dragons.utilities.DataGenerator;
 
 import java.util.List;
 import java.util.Map;
@@ -23,8 +24,10 @@ public class RetailAccountSteps extends CommonUtility {
 
 	@When("User update Name {string} and Phone {string}")
 	public void userUpdateNameAndPhone(String name, String phone) {
+		
+		String phoneNumber = DataGenerator.getPhoneNumber();
 		sendText(factory.retailaccountpage().nameInput, name);
-		sendText(factory.retailaccountpage().phoneInput, phone);
+		sendText(factory.retailaccountpage().phoneInput, phoneNumber);
 		logger.info(name + phone + " user was able to enter the values");
 	}
 
@@ -91,10 +94,16 @@ public class RetailAccountSteps extends CommonUtility {
 	public void userEditInformationWithBelowData(io.cucumber.datatable.DataTable dataTable) {
 		List<Map<String, String>> data = dataTable.asMaps(String.class, String.class);
 		for (Map<String, String> row : data) {
+			factory.retailaccountpage().editCardNumberInput.clear();
 			sendText(factory.retailaccountpage().editCardNumberInput, row.get("cardNumber"));
+			
+			factory.retailaccountpage().editNameOnCardInput.clear();
 			sendText(factory.retailaccountpage().editNameOnCardInput, row.get("nameOnCard"));
+			
 			selectByValue(factory.retailaccountpage().editExpirationMonthInput, row.get("expirationMonth"));
 			selectByValue(factory.retailaccountpage().editExpirationYearInput, row.get("expirationYear"));
+			
+			factory.retailaccountpage().editSecurityCodeInput.clear();
 			sendText(factory.retailaccountpage().editSecurityCodeInput, row.get("securityCode"));
 			logger.info("The information was updated successfully");
 		}
