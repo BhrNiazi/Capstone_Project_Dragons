@@ -1,4 +1,11 @@
 -------------------------------------------------------------------------------
 Test set: tek.capstone.dragons.runner.TestRunner
 -------------------------------------------------------------------------------
-Tests run: 20, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 137.591 s - in tek.capstone.dragons.runner.TestRunner
+Tests run: 20, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 303.805 s <<< FAILURE! - in tek.capstone.dragons.runner.TestRunner
+Retail Account Page.Verify User can add a payment method  Time elapsed: 23.734 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<...ent Method added suc[]essfully> but was:<...ent Method added suc[c]essfully>
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at tek.capstone.dragons.steps.RetailAccountSteps.messageShouldBeDisplayed(RetailAccountSteps.java:76)
+	at ✽.message should be displayed 'Payment Method added successfully'(classpath:features/RetailAccount.feature:24)
+

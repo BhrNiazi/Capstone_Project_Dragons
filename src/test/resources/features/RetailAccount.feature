@@ -21,7 +21,7 @@ Feature: Retail Account Page
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
       | 1100771030091245 | john       |              11 |           2028 |          760 |
     And User click on Add your card button
-    Then a message should be displayed "Payment Method added successfully"
+    Then message should be displayed 'Payment Method added successfully'
 
   Scenario: Verify User can edit Debit or Credit card
     And User click on Edit option of card section
@@ -29,7 +29,7 @@ Feature: Retail Account Page
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
       | 2200771030091245 | Bahara     |               9 |           2025 |          550 |
     And user click on Update Your Card button
-    Then a message should be displayed "Payment Method updated Successfully"
+    Then a message should be displayed 'Payment Method updated Successfully'
 
   Scenario: Verify User can remove Debit or Credit card
     And User click on remove option of card section
@@ -41,7 +41,7 @@ Feature: Retail Account Page
       | country       | fullName     | phoneNumber | streetAddress | apt | city       | state    | zipCode |
       | United States | Bahara Niazi |  5714268798 | circle Drive  | 345 | woodbridge | Virginia |   22912 |
     And User click Add Your Address button
-    Then a message should be displayed "Address Added Successfully"
+    Then a message should displayed 'Address Added Successfully'
 
   Scenario: Verify User can edit an Address added on account
     And User click on edit address option
@@ -49,7 +49,7 @@ Feature: Retail Account Page
       | country       | fullName | phoneNumber | streetAddress | apt | city        | state    | zipCode |
       | United States | BN       |  5714268888 | taxi          |  22 | Alexandaria | Virginia |   22019 |
     And User click update Your Address button
-    Then a message should be displayed "Address Updated Successfully"
+    Then a message should be display 'Address Updated Successfully'
 
   Scenario: Verify User can remove Address from Account
     And User click on remove option of Address section

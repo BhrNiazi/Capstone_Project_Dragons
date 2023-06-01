@@ -24,8 +24,17 @@ public class RetailAccountPage extends BaseSetup {
 	@FindBy(id = "personalUpdateBtn")
 	public WebElement updateBttn;
 
-	@FindBy(xpath = "//html//body//div//div[2]")
-	public WebElement successMessage;
+	@FindBy(xpath = "//div//div[text()='Payment Method added sucessfully']")
+	public WebElement successMessageForPaymetadded;
+	
+	@FindBy(xpath = "//div//div[text()='Payment Method updated Successfully']")
+	public WebElement successMessageForPaymetUpadte;
+	
+	@FindBy(xpath = "//div//div[text()='Address Added Successfully']")
+	public WebElement successMessageForAddAddress;
+	
+	@FindBy(xpath = "//div//div[text()='Address Updated Successfully']")
+	public WebElement successMessageForUpdateAddress;
 
 	@FindBy(xpath = "//p[text()='Add a payment method']")
 	public WebElement addAPaymentMethodLink;

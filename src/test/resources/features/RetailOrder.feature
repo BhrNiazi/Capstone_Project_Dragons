@@ -60,7 +60,6 @@ Feature: Retail Order Page
     And User click on Proceed to Checkout button
     And User click on Place Your Order
     And User click on Orders section
-    And User click on first order in list
     And User click on Return Items button
     And User select the Return Reason "Item damaged"
     And User select the drop off service "FedEx"
